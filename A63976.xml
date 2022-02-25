@@ -1,0 +1,525 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tribe of Levi A poem.</title>
+            <author>Tutchin, John, 1661?-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63976</idno>
+            <idno type="STC">Wing T3384C</idno>
+            <idno type="STC">ESTC R203917</idno>
+            <idno type="EEBO-CITATION">99825299</idno>
+            <idno type="PROQUEST">99825299</idno>
+            <idno type="VID">29679</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63976)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29679)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2158:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tribe of Levi A poem.</title>
+                  <author>Tutchin, John, 1661?-1707.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed 1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Tutchin.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>A satire on the clergy.</note>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:29679:1" rendition="simple:additions"/>
+            <head>THE TRIBE of LEVI. A POEM.</head>
+            <lg>
+               <l>SInce Plagues were order'd for a Scourge to Men,</l>
+               <l>And <hi>Egypt</hi> was chaſtiſed with her Ten,</l>
+               <l>No greater Plague did any State moleſt,</l>
+               <l>Than the ſevere, the worſt of Plagues, a <hi>Prieſt.</hi>
+               </l>
+               <l>Some Savage Beaſts, by Laws of Nature bound,</l>
+               <l>Only in Woods and deſart Lands are found,</l>
+               <l>No Land, no Climate, can this Monſter bind,</l>
+               <l>But like ſome Hydra multiplys his kind,</l>
+               <l>Through th' extended Orb directs his Courſe,</l>
+               <l>And is at beſt a Univerſal Curſe.</l>
+            </lg>
+            <lg>
+               <l>Ah happy <hi>Albion,</hi> to the Gods moſt dear!</l>
+               <l>How bright thy Rocks and fertile Lands appear?</l>
+               <l>The Oceans glory, and its Nymphs delight,</l>
+               <l>The Nations Terror by thy Men of Might:</l>
+               <l>Thrice happy <hi>Albion!</hi> had there ne're poſſeſt</l>
+               <l>Thy ſpacious Kingdoms, the conſuming <hi>Prieſt!</hi>
+               </l>
+               <l>Who Locuſt-like the Nations overſpread,</l>
+               <l>In every place a Prieſt erects his Head,</l>
+               <l>Theſe, as the Fiſhes in the Water breed,</l>
+               <l>And on the Fat of all the Paſtures feed.</l>
+               <l>Nor are they ſatisfy'd to have a Power</l>
+               <l>To drain the Nations and its Fat devour,</l>
+               <l>But like the Devil always bent on ill,</l>
+               <l>They plot new Miſchiefs and Devices ſtill,</l>
+               <l>Their unknown Virtues do the Crowd deceive,</l>
+               <l>What Prieſtly Knaves report, dull Fools believe;</l>
+               <l>Nor is a Prince (how great ſo 'ere he be)</l>
+               <l>From their deceit and ſtudied Malice free,</l>
+               <l>Like Feinds aſcending from the Houſe of Smoak</l>
+               <l>They all around the gilded Palace flock,</l>
+               <l>And in the Ears of Monarchy they ſing,</l>
+               <l>That had they not been Prieſts He had ne're been King,</l>
+               <l>Set off with Titles and a Specious name,</l>
+               <l>They quickly ſet the wondring World on flame:</l>
+               <l>Methinks I hear its burthen'd Axles break,</l>
+               <l>And of the Prieſts dead weight diſtinctly ſpeak;</l>
+               <l>The ſenſeleſs Elements together moan,</l>
+               <l>And all around the vaſt Creation groan.</l>
+               <l>Yee juſter Deities are Friends to Men,</l>
+               <l>Aſſiſt my Muſe, and guide my fainting Pen;</l>
+               <l>A generous Paſſion raiſe within my Breaſt,</l>
+               <l>That may affect the vileſt Monſter Prieſt,</l>
+               <l>Let my Muſe laſh, the ſtrokes be bold and good,</l>
+               <l>As if my Pen were Steel, my Ink were Blood.</l>
+            </lg>
+            <lg>
+               <l>Cloſe by thoſe Banks, the Banks were Siver Theams</l>
+               <l>Still glides along with unpoluted Streams,</l>
+               <l>A Fabrick ſtands, no Storm of Fate moleſts,</l>
+               <l>From its Foundation 'twas poſſeſt by Prieſts;</l>
+               <l>Here <hi>Levi</hi> lives, o'er grown with ſin and Years:</l>
+               <l>
+                  <hi>Good God what Lewdneſs lurks in hoary Hairs!</hi>
+               </l>
+               <l>As chief of Prieſts imperial ſway does bear,</l>
+               <l>For he alone is God's Vicegerent here;</l>
+               <l>His leſſer Villains of the Church are Slaves,</l>
+               <l>For he that's chief of Prieſt is chief of Knaves.</l>
+               <l>'Twas this ſame <hi>Levi</hi> did our <hi>James</hi> enthrone,</l>
+               <l>And when h' had done as baſely pull'd him down:</l>
+               <l>The <hi>Levites</hi> firſt his Sovereign will declar'd,</l>
+               <l>The <hi>Levites</hi> firſt his Sovereign will debarr'd;</l>
+               <l>And thus old <hi>Levi,</hi> through miſtaken fame,</l>
+               <l>Had got a Patriots and a Martyrs name;</l>
+               <l>Him th' unſtable Mob with praiſes grace't,</l>
+               <l>And thus his humour, for his Conſcience paſt,</l>
+               <pb n="2" facs="tcp:29679:2" rendition="simple:additions"/>
+               <l>Moroſe and Peeviſh, inſolently proud,</l>
+               <l>
+                  <hi>Levi</hi> would ſtoop to none but to the Crowd,</l>
+               <l>Who, e're the Rable could his Bleſſings crave,</l>
+               <l>His Apoſtolick Benedictions gave.</l>
+               <l>Unhappy <hi>James!</hi> Prepoſtrous was thy Fate!</l>
+               <l>That brought on thee the Clergys frown and hate,</l>
+               <l>Hadſt thou our Civil Rights and Charters took</l>
+               <l>Not half a word the Clergy then had ſpoak;</l>
+               <l>But to moleſt the Church, was to depoſe</l>
+               <l>God's holy Blockheads, and ſet up his Foes.</l>
+               <l>Now Foreign Troops invited o're the Main,</l>
+               <l>Come to diſturb the Scenes of thy ſhort Reign,</l>
+               <l>Grown mad with fear when thou hadſt loſt the Day,</l>
+               <l>And in inglorious haſte didſt run away.</l>
+               <l>Our pious <hi>Levi,</hi> loyally came down</l>
+               <l>T' invite our future Monarch to the Town.</l>
+               <l>How beggerly's the Crown? how mean the State,</l>
+               <l>That does depend on Biſhops love or hate!</l>
+               <l>Nor can Conventions now make him a King,</l>
+               <l>Till <hi>Levi</hi> does the Regal Veſtments bring:</l>
+               <l>In vain's your reaſoning, in vain your toil,</l>
+               <l>If <hi>Levi</hi> but keep back the anointing Oyl.</l>
+               <l>'Twas not for this the Hero was brought o're,</l>
+               <l>Only to ſettle Church as was before,</l>
+               <l>To beat his Dad, and call his Mother Whore.</l>
+               <l>Should he be crown'd, <hi>Levi</hi>'s Deſigns are croſt,</l>
+               <l>The juggle too of the Succeſſion loſt,</l>
+               <l>If <hi>James</hi> be reinthron'd we muſt aſcribe</l>
+               <l>His Reſtoration unto <hi>Levi</hi>'s Tribe:</l>
+               <l>And thus the Hierarchy of courſe bears Rule,</l>
+               <l>And the weak Monarch is the Biſhop's Tool;</l>
+               <l>
+                  <hi>None but the Church ſhould keep their Civil Rights,</hi>
+               </l>
+               <l>
+                  <hi>And all Diſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nters be but</hi> Gibeonites.</l>
+               <l>So much theſe Arguments with <hi>Levi</hi> ſway'd</l>
+               <l>That he aſide his Faith and Conſcience laid.</l>
+               <l>At once the Sanhedrim and God forſook,</l>
+               <l>And to his own pernicious Councils took,</l>
+               <l>Rather than have his Prieſts left in the lurch,</l>
+               <l>Would damn himſelf only to ſave the Church.</l>
+               <l>Thus in a Fret he to his Cell retires,</l>
+               <l>To plot new Miſchiefs and blow up new Fires.</l>
+               <l>Had this retirement, been well deſign'd,</l>
+               <l>Only to eaſe the Plague of human kind,</l>
+               <l>
+                  <hi>Levi,</hi> thy abſence then we ne're could mourn,</l>
+               <l>Nor been ambitious of thy loath'd return;</l>
+               <l>But ſince thy Den's become the Lyon's Court,</l>
+               <l>Whether in Black the Beaſts of Prey reſort,</l>
+               <l>May'ſt thou from thence thy final Journey take,</l>
+               <l>And on ſome Gibbet thy juſt Exit make.</l>
+               <l>Nor ſhalt thou <hi>Corah,</hi> now my hand is in,</l>
+               <l>Eſcape the juſteſt cenſure of my Pen;</l>
+               <l>
+                  <hi>Corah,</hi> in the lewd Liſt, muſt next take place,</l>
+               <l>To Man and to Religion a diſgrace.</l>
+               <l>In him, when Young, the Prieſtly Sign appears,</l>
+               <l>Did promiſe Miſchief in his tender Years,</l>
+               <l>No coſt was wanting to provide him Tools,</l>
+               <l>To paſs the learned drudgery of the Schools,</l>
+               <l>Where Youth is with the Laws Corruption fed,</l>
+               <l>Where Prieſts are form'd and holy Cheats are bred.</l>
+               <l>Their curſed Tenents much our <hi>Corah</hi> lov'd,</l>
+               <l>And in the Tricks of Prieſthood ſoon improv'd:</l>
+               <l>He from the Pulpit did his Doctrine breath,</l>
+               <l>And ſhed his Venome on the Crowd beneath:</l>
+               <l>He taught, That Kings might Govern by their Will,</l>
+               <l>And like the Gods themſelves could nere do ill;</l>
+               <l>That Princes had an uncontrouled Power,</l>
+               <l>And might their Subjects, when they pleas'd, devour;</l>
+               <l>That God all Reaſon gave to Kings and Prieſts,</l>
+               <l>And that all men beſides were only Beaſts:</l>
+               <l>But when his Lyon from the Throne was driven,</l>
+               <l>Diſown'd by all good men and juſter Heaven,</l>
+               <l>A King ſet up the Nations all approv'd</l>
+               <l>A King, that God and all the People lov'd,</l>
+               <l>Our treacherous <hi>Corah</hi> had his Faith forgot,</l>
+               <l>And turn'd his fam'd Obedience to a Plot;</l>
+               <l>His ſcruplous Conſcience would not let him ſwear,</l>
+               <l>(Whilſt Father liv'd) Obedience to the Heir;</l>
+               <l>But, in the head of a Rebellious Race,</l>
+               <l>As void of moral Vertues as of Grace,</l>
+               <l>
+                  <hi>Corah</hi> the new made Monarch did diſown,</l>
+               <l>And, ſince the other went, each Action done.</l>
+               <l>Until King <hi>William</hi>'s Fate reſounds from far,</l>
+               <l>His great Succeſs and Enterpriſe in War,</l>
+               <l>And Fame aloud does of his Fortunes tell,</l>
+               <l>How by his hand the Sons of <hi>Corah</hi> fell;</l>
+               <l>Now <hi>Corah</hi> is become a milder Prieſt,</l>
+               <l>And ſwears as well as any of the reſt;</l>
+               <l>Prieſts are like Spaniels ne're inclin'd to good,</l>
+               <l>No longer then they ſee or feel the Rod.</l>
+               <l>Ah <hi>William</hi> had I but thy Scepter Royal!</l>
+               <l>By Heaven, i'de beat the Dogs, till they were Loyal.</l>
+            </lg>
+            <lg>
+               <l>Ungrateful <hi>Corah!</hi> I'll bid the adieu!</l>
+               <l>Since God hath left thee, I will leave thee too!</l>
+               <l>Nor ſhall my Satyr 'ere diſturb thy Life,</l>
+               <l>Since thou haſt got a Satyr in a Wife.</l>
+            </lg>
+            <pb n="3" facs="tcp:29679:2" rendition="simple:additions"/>
+            <lg>
+               <l>
+                  <hi>Dathan</hi> muſt next be from Oblivion free'd,</l>
+               <l>Who in the Feild obtain'd the Biſhops meed,</l>
+               <l>Was bred a Soldier, now by Trade a Prieſt,</l>
+               <l>Though not ſo wiſe or learned as the reſt,</l>
+               <l>He ſeldom does to preaching make pretence,</l>
+               <l>But does excuſe it by his want of ſence.</l>
+               <l>Yet <hi>Dathan</hi> never like his Tribe was mad,</l>
+               <l>Nor were his Crimes ſo great or half ſo bad;</l>
+               <l>
+                  <hi>Dathan</hi> did never queſtion his Belief,</l>
+               <l>But pinn'd his Faith upon his Father's Sleeve,</l>
+               <l>Sometimes was in the right, but vary'd ſoon,</l>
+               <l>And chaned his Opinion with the Moon.</l>
+               <l>
+                  <hi>Dathan</hi> did with King <hi>William</hi>'s Intreſt cloſe,</l>
+               <l>Yet like a Sot encouraged his Foes;</l>
+               <l>Who but wiſe <hi>Dathan</hi> would his ſence prefer,</l>
+               <l>And take the part of a Petitioner?</l>
+               <l>Favour the City Mob ſo lately fam'd,</l>
+               <l>For Murderers and Evidences nam'd;</l>
+               <l>Yet <hi>Dathan,</hi> though thy Crimes too far exceed,</l>
+               <l>I'll pardon all thy Faults for one good Deed.</l>
+            </lg>
+            <lg>
+               <l>But damn'd <hi>Abiram,</hi> muſt my Anger feel,</l>
+               <l>Whoſe lewdneſs is as deep, as black as Hell,</l>
+               <l>Such as a Muſe, ſcarce as Old Nick can tell.</l>
+               <l>
+                  <hi>Abiram</hi> did late <hi>Jimmy</hi>'s will controul,</l>
+               <l>And made a Seventh in the famous Roul;</l>
+               <l>
+                  <hi>Abiram</hi> with 'em entred his Proteſt,</l>
+               <l>And grew as ſawcy as did all the reſt:</l>
+               <l>But now his Conſcience does by <hi>Levi</hi>'s ſquare,</l>
+               <l>And his lew'd Thoughts with <hi>Levi</hi>'s Notes Com<g ref="char:EOLhyphen"/>pare</l>
+               <l>
+                  <hi>Levi,</hi> to God nor to the Kingdom true,</l>
+               <l>The Elder Brother of the Factious Crew;</l>
+               <l>He choſe <hi>Abiram</hi> out of all the Tribe,</l>
+               <l>To be his Secretary and his Scribe,</l>
+               <l>Who beſt to Mr. <hi>Redding</hi> might preſent</l>
+               <l>The ſtrength and weekneſs of the Government,</l>
+               <l>How ſtiff the <hi>Levites</hi> to his Intreſt ſtood,</l>
+               <l>As true as Steel and firm as Oaken Wood;</l>
+               <l>But poor <hi>Abiram</hi> does the toil endure,</l>
+               <l>Whilſt <hi>Levi</hi> in his Cell does ſit ſecure:</l>
+               <l>
+                  <hi>Levi</hi> of freedom knew the worth and price,</l>
+               <l>And therefore ſent the Fools to break the Ice;</l>
+               <l>Though ſome in forming Plots may well agree,</l>
+               <l>Yet few think good to hang for Company<g ref="char:punc">▪</g>
+               </l>
+               <l>But poor <hi>Abiram!</hi> it would vex a ſtone,</l>
+               <l>To Plot in number and to Hang alone;</l>
+               <l>Yet never at thy Deſtiny repine,</l>
+               <l>Hanging's the fitteſt Death for a Divine:</l>
+               <l>For who does ever at the Gallows ſwing,</l>
+               <l>But 'ere he's turn'd off a Pſalm does ſing;</l>
+               <l>And though thou art a dire Example made,</l>
+               <l>Thou'lt leave the World but in thy way of Trade.</l>
+            </lg>
+            <lg>
+               <l>Nor muſt <hi>Abiathar</hi> be here forgot,</l>
+               <l>For he that will, can write, can make a Plot:</l>
+               <l>Of any Faith he never maketh doubt,</l>
+               <l>But like the Wind his Conſcience veers about.</l>
+               <l>In lofty ſtrains he Tyrant Noll did praiſe,</l>
+               <l>And to his Fame a laſting Statue raiſe;</l>
+               <l>Who in Uſurpers praiſe employ their Pens,</l>
+               <l>Have no Affection to their Lawful Prince,</l>
+               <l>What e're pretence to Prieſthood may belong,</l>
+               <l>Gold is their God and Glory guides their Tongue;</l>
+               <l>Theſe even <hi>Belzebub</hi> have quite out done,</l>
+               <l>In Prieſt, thy <hi>Athen's</hi> Plagues are cram'd in one.</l>
+            </lg>
+            <lg>
+               <l>But now my Muſe another Story tells,</l>
+               <l>Pray here the ſound of Pious <hi>Aaron</hi>'s Bells,</l>
+               <l>Whoſe ſtrength of Zeal ſuppreſſes that of Sence,</l>
+               <l>Where Fleſh does fail, Devotion does commence;</l>
+               <l>Tyr'd with Age, of Youthful Vigour free,</l>
+               <l>He is devout of meer neceſſity;</l>
+               <l>His great Auſterity his Tribe does ſuit,</l>
+               <l>He ſometimes rides, but oftner walks on foot;</l>
+               <l>Such pagean Zeal attendeth Biſhopricks,</l>
+               <l>He well may walk, where follows Coach and Six;</l>
+               <l>Nor can he pray but where his Pictures ſtand,</l>
+               <l>To fix his Zeal and wandring Thoughts command;</l>
+               <l>Thoſe Images do pious heats Confer,</l>
+               <l>And raiſe Devotion up, <hi>the Lord knows where;</hi>
+               </l>
+               <l>He ſoars ſo high and to the Clouds does grow,</l>
+               <l>He quite forgets all Lowalty below,</l>
+               <l>Can take no Oath nor ſwallow any Teſt,</l>
+               <l>But muſt be ſtubborn as are all the reſt.</l>
+            </lg>
+            <lg>
+               <l>Let laſting Infamy Curſt <hi>Zadoc</hi> damn,</l>
+               <l>Who maketh all Religion but a ſham;</l>
+               <l>
+                  <hi>Zadoc,</hi> who boaſts of Fighting, Drinking, Roaring,</l>
+               <l>And above all his mighty ſtrength in Whoreing;</l>
+               <l>Yet to debauch his Conſcience 'is loath,</l>
+               <l>And ſwears by God, he cannot take the Oath;</l>
+               <l>Let <hi>Radoc</hi> to his Sins ſtand firm and ſtiff,</l>
+               <l>'Till Triple Tree ſhall take the Triple F—</l>
+            </lg>
+            <lg>
+               <l>Next; in the Liſt, muſt <hi>Eleazer</hi> come,</l>
+               <l>A Foe to <hi>England,</hi> and a Friend to <hi>Rome:</hi>
+               </l>
+               <l>Prieſts in Divinity take little Pains,</l>
+               <l>And with Religion ſeldom crack their Brains:</l>
+               <l>This Want of Senſe made <hi>Eleazer</hi> run</l>
+               <l>The firſt to worſhip the ariſing Sun.</l>
+               <l>When Brother Prieſt arrived here from <hi>Rome,</hi>
+               </l>
+               <l>Good <hi>Eleaxer</hi> did invite them Home:</l>
+               <pb n="4" facs="tcp:29679:3"/>
+               <l>He took his Coach, and mighty Stir he made</l>
+               <l>To be aſſiſtant at the Cavalcade;</l>
+               <l>But yet thy Coachman, as the Act expreſt,</l>
+               <l>By moſt was thought the better ſort of Prieſt,</l>
+               <l>He would not drive, nor <hi>Rome</hi>'s black Fiends adore,</l>
+               <l>When thou wer't but Poſtillion to the Whore,</l>
+               <l>Whilſt honeſt <hi>Slaſh</hi> did for his Freedom ſtrive,</l>
+               <l>Thou, like the Devil, unto <hi>Rome</hi> didſt drive;</l>
+               <l>Thy Brethren baniſht by the preſent Reign,</l>
+               <l>Thou longſt to view and wellcome here again,</l>
+               <l>Not the lewd <hi>Levites,</hi> which arrive from <hi>Rome,</hi>
+               </l>
+               <l>Are greater Villians than our Prieſts at home;</l>
+               <l>The Churches Warriors of thy pybald Band,</l>
+               <l>That Plague the Natives of this wretched Land,</l>
+               <l>That blow the Coals and warmer Blood ferment,</l>
+               <l>To cauſe a Feaver in the Government</l>
+            </lg>
+            <lg>
+               <l>I'll mention but one more and then have done,</l>
+               <l>'Tis fighting <hi>Joſuah</hi> the Son of <hi>Nun,</hi>
+               </l>
+               <l>Though he to Men of Sence is a Buffoon,</l>
+               <l>He ſerves to make a Spiritual Dragoon;</l>
+               <l>What though he cannot Preach, or Pray, or Write,</l>
+               <l>He 'gainſt his Country and his King can fight;</l>
+               <l>He's ſtrongly armed with a double Sword,</l>
+               <l>To fight God's Battels, and to preach his Word:</l>
+               <l>What Wonders in the Field were lately done,</l>
+               <l>By fighting <hi>Joſuah</hi> the Son of <hi>Nun?</hi>
+               </l>
+               <l>He bravely <hi>Monmouth</hi> and his Force withſtood,</l>
+               <l>And made the <hi>Western</hi> Land a Field of Blood;</l>
+               <l>There <hi>Joſuah</hi> did his reaking heat aſſwage,</l>
+               <l>On every Sign-Poſt Gibbet up his Rage,</l>
+               <l>Glutted with Blood like ſome moſt Chriſtian Turk,</l>
+               <l>And ſcarce out done by <hi>Jefferies</hi> or <hi>K<hi rend="sup">irk</hi>;</hi>
+               </l>
+               <l>Yet now the Prieſt is grown a Rebel too,</l>
+               <l>And, what <hi>Monmothians</hi> did, himſelf can do;</l>
+               <l>Since thou like them art equally to blame,</l>
+               <l>Their Fate was to be hang'd, be thine the ſame.</l>
+            </lg>
+            <lg>
+               <l>Should I of all the leſſer Villians tell,</l>
+               <l>It would a great, a bulky Vollume fill,</l>
+               <l>Fit for the Devil's Library in Hell.</l>
+               <l>Should I their lewdneſs and their crimes relate,</l>
+               <l>Their Luſt, their Perjuries, their Envy, Hate,</l>
+               <l>Their filthy Drunkenneſs, their height of Pride,</l>
+               <l>Their Avarice yet Luxury beſide;</l>
+               <l>Their want of Goodneſs and their want of Sence,</l>
+               <l>And their Repentance in the future Tenſe;</l>
+               <l>Their new coin'd Tenets, which the Pulpits fill,</l>
+               <l>Would tire <hi>Pelling</hi>'s Paſſive Lungs to tell.</l>
+               <l>
+                  <hi>Hophine</hi> of old laid down his Rampant Whore,</l>
+               <l>And thump't her Carcaſs at the Temple-Door;</l>
+               <l>But who can tell what Tricks our Prieſts do uſe</l>
+               <l>Behind the Altar, and within the Pews?</l>
+               <l>The ancient <hi>Levites</hi> (as the times then ſtood)</l>
+               <l>Were Men of Cruelty and Men of Blood,</l>
+               <l>The former harmleſs Bulls they did ſurpriſe,</l>
+               <l>And near the Altar ſlew the Sacrafice;</l>
+               <l>Although the Butcher now does not take place,</l>
+               <l>The Cruelty's entail'd upon the Race:</l>
+               <l>Our Prieſts are all deſcended from that Stem,</l>
+               <l>
+                  <hi>Nero</hi> and <hi>Aretine</hi> are Saints to them;</l>
+               <l>They oft the Blood of War in Peace have ſpill'd,</l>
+               <l>How many Priſons has their Mallice fill'd?</l>
+               <l>How many Widdows have they made a Prey?</l>
+               <l>What Goods the holy Guzmans ſtole away!</l>
+               <l>Well may they grieve, now having loſt the Power,</l>
+               <l>By which they Widdows Houſes did devour,</l>
+               <l>That Land's accurſt, hath reaſon to lament</l>
+               <l>Where Prieſts are made a piece of Government;</l>
+               <l>They damn our Souls and lead us weary Lives,</l>
+               <l>Miſlead our Daughters and debauch our Wives;</l>
+               <l>Whatever ſhew of Zeal the Prieſthood paints,</l>
+               <l>They are at beſt but Cucoldizing Saints;</l>
+               <l>The Pious Vermin, that moleſt a State,</l>
+               <l>The Scource of all Diſorder and Debate:</l>
+               <l>The bane of Princes, a Tumultuous Crew,</l>
+               <l>Not ſatisfy'd with what is old or new:</l>
+               <l>For <hi>James</hi> they underwent a wondrous Toil,</l>
+               <l>And greas'd his Head with their Anointing Oyl;</l>
+               <l>But when he to the Jeſuits tack'd about,</l>
+               <l>They as the Devil with Prayer caſt him out;</l>
+               <l>Nor are they with their new made Monarch glad,</l>
+               <l>(The Prieſts have ſtill a priviledge to be mad)</l>
+               <l>Though eaſie, gentle and averſe to Blood,</l>
+               <l>His only Crime, he's to his Foes too good;</l>
+               <l>Well may he have the Prieſts to be his Foes,</l>
+               <l>They even God Almighty would Depoſe.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
